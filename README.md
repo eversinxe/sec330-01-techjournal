@@ -1,3 +1,3 @@
-# sec330-01-techjournal
+# sec335-techjournal
 
-This will be the tech journal for sec330-01 for all of our labs!
+This will be the tech journal for sec335 for all of our labs!
